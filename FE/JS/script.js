@@ -1,0 +1,1 @@
+console.log("I am the script of javascript - Hello from the console");
